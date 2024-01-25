@@ -1,5 +1,3 @@
---// Obfuscated with LuaSeel 1.1 
-
 function IllIlllIllIlllIlllIlllIll(IllIlllIllIllIll)
     if (IllIlllIllIllIll==(((((919 + 636)-636)*3147)/3147)+919)) then
         return not true
